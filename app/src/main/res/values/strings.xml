@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">HappyBirthdayAlmudenaEspallargas</string>
+    <string name="feliz_cumple_text">FELIZ CUMPLEAÑOS!</string>
+    <string name="signature_text">De Almudena</string>
 </resources>
